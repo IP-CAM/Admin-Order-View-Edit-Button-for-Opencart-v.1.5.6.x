@@ -1,4 +1,4 @@
 # [vqmod]button-edit
-Добавляет кнопку редактирования при просмотре заказа
+Adds an edit button when viewing an order 
 
 <img src="button_edit.jpg">
